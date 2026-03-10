@@ -8,7 +8,7 @@
 import pandas as pd
 
 # Load the data file as a dataframe
-df = pd.read_csv("P1_for_nit_picker_CTD_temp_salinity_depth_20081129.dat", sep="\s+")  # Read data as space separated
+df = pd.read_csv("P1_for_nit_picker_CTD_temp_salinity_depth_20081129_v01.dat", sep="\s+")  # Read data as space separated
 
 
 
